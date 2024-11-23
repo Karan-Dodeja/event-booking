@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Taylor Swift | The Eras Tour",
+        "description": "Concert",
+        "price": 499.99,
+        "totalTickets": 200,
+        "location": "New Jersy",
+        "eventDate": 123456789,
+        "userId": "sadasasasxass58sa8d54as45dsa5855"
+    },
+    {
+        "name": "Taylor Swift | The Eras Tour",
+        "description": "Concert",
+        "price": 499.99,
+        "totalTickets": 200,
+        "location": "New Jersy",
+        "eventDate": 123456789,
+        "userId": "sadasasasxass58sa8d54as45dsa5859"
+    }
+]
