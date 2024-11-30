@@ -3,6 +3,7 @@ import { api } from '@/convex/_generated/api';
 import { useQuery } from 'convex/react';
 import Spinner from './Spinner';
 import { CalendarDays, Ticket } from 'lucide-react';
+import EventCard from './EventCard';
 
 
 function EventList() {
