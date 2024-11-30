@@ -19,6 +19,9 @@ function EventCard({ eventId }: { eventId: Id<"events"> }) {
         eventId,
         userId: user?.id ?? "",
     })
+
+    const imageUrl = useStorageUrl(event?.imageStorageId);
+
     return (
         <div>EventCard</div>
     )
